@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://irving1211.github.io/mia-preview-ed493d/sitemap-index.xml
